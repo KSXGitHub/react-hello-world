@@ -10,7 +10,7 @@
     "mui-icons": "^1.2.1",
     "product-iterable": "^3.0.1",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react-dom": "^16.0.1",
     "react-monaco-editor": "^0.10.0",
     "standard-loader": "^6.0.1"
   },
